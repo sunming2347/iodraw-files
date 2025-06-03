@@ -664,11 +664,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-1" value="&lt;font color=&quot;#ffffff&quot;&gt;实训人员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="aHusw_JFTUvXmlpeTTXi-1" value="&lt;font color=&quot;#ffffff&quot;&gt;实训学员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-2" value="&lt;font color=&quot;#ffffff&quot;&gt;实训人员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
