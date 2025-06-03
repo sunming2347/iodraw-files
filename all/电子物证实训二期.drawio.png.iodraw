@@ -860,7 +860,7 @@
           <mxGeometry x="1170" y="945" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-83" value="&lt;font color=&quot;#ffffff&quot;&gt;权限管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="615" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="870" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-84" value="&lt;font color=&quot;#ffffff&quot;&gt;成绩管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="620" y="1075" width="100" height="40" as="geometry" />
