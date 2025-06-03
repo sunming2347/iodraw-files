@@ -772,10 +772,10 @@
           <mxGeometry x="780" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-40" value="&lt;font color=&quot;#ffffff&quot;&gt;实训学员开始&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;物证勘查操作&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="920" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="920" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-42" value="&lt;font color=&quot;#ffffff&quot;&gt;实训教师&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;对学员&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;勘查操作评价&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="920" y="540" width="100" height="40" as="geometry" />
+          <mxGeometry x="920" y="520" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
