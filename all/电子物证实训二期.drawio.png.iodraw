@@ -803,7 +803,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-65" value="&lt;font color=&quot;#ffffff&quot;&gt;用户管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="567" y="757.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="567" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-67" target="aHusw_JFTUvXmlpeTTXi-88">
           <mxGeometry relative="1" as="geometry" />
@@ -812,7 +812,7 @@
           <mxGeometry x="567" y="947.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-69" value="&lt;font color=&quot;#ffffff&quot;&gt;查询、修改、删除&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;用户信息&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="707" y="757.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="707" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-83" target="aHusw_JFTUvXmlpeTTXi-87">
           <mxGeometry relative="1" as="geometry" />
