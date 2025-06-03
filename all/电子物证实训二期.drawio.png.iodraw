@@ -717,17 +717,14 @@
         <mxCell id="aHusw_JFTUvXmlpeTTXi-10" value="&lt;font color=&quot;#ffffff&quot;&gt;注册页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-17" target="aHusw_JFTUvXmlpeTTXi-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-17" value="&lt;font color=&quot;#ffffff&quot;&gt;用户中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-18" value="&lt;font color=&quot;#ffffff&quot;&gt;考训平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-21" value="" style="whiteSpace=wrap;html=1;fillColor=#0066CC;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="aHusw_JFTUvXmlpeTTXi-23" value="&lt;font color=&quot;#ffffff&quot;&gt;用户中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
