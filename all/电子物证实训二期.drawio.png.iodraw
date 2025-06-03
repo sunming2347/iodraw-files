@@ -854,7 +854,7 @@
         <mxCell id="aHusw_JFTUvXmlpeTTXi-87" value="&lt;font color=&quot;#ffffff&quot;&gt;查询、修改、删除&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;用户权限&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="760" y="885" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-88" value="&lt;font color=&quot;#ffffff&quot;&gt;查询、修改、删除&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;用户权限&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="aHusw_JFTUvXmlpeTTXi-88" value="&lt;font color=&quot;#ffffff&quot;&gt;场景设备、人员模板管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="760" y="980" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
