@@ -802,14 +802,6 @@
         <mxCell id="aHusw_JFTUvXmlpeTTXi-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-65" target="aHusw_JFTUvXmlpeTTXi-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-65">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-65" target="aHusw_JFTUvXmlpeTTXi-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-65" value="&lt;font color=&quot;#ffffff&quot;&gt;用户管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="620" y="790" width="100" height="40" as="geometry" />
         </mxCell>
@@ -821,9 +813,6 @@
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-69" value="&lt;font color=&quot;#ffffff&quot;&gt;修改密码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="760" y="790" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-70" value="&lt;font color=&quot;#ffffff&quot;&gt;查询个人考训成绩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="760" y="840" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aHusw_JFTUvXmlpeTTXi-73" target="aHusw_JFTUvXmlpeTTXi-75">
           <mxGeometry relative="1" as="geometry" />
