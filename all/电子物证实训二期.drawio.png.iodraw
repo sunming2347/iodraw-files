@@ -723,8 +723,8 @@
         <mxCell id="aHusw_JFTUvXmlpeTTXi-18" value="&lt;font color=&quot;#ffffff&quot;&gt;考训平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aHusw_JFTUvXmlpeTTXi-23" value="&lt;font color=&quot;#ffffff&quot;&gt;用户中心&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="100" height="40" as="geometry" />
+        <mxCell id="aHusw_JFTUvXmlpeTTXi-23" value="&lt;font color=&quot;#ffffff&quot;&gt;修改个人信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
