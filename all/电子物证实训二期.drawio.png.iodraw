@@ -712,7 +712,10 @@
           <mxGeometry x="60" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-17" value="&lt;font color=&quot;#ffffff&quot;&gt;登录页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="215" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="340" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aHusw_JFTUvXmlpeTTXi-18" value="&lt;font color=&quot;#ffffff&quot;&gt;登录页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
