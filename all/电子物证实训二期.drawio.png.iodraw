@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tLgAJFwUA-H268eHrvhb" name="三期流程逻辑">
-    <mxGraphModel dx="561" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -730,7 +730,7 @@
           <mxGeometry x="370" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-18" value="&lt;font color=&quot;#ffffff&quot;&gt;考训平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="370" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aHusw_JFTUvXmlpeTTXi-23" value="&lt;font color=&quot;#ffffff&quot;&gt;修改个人信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="510" y="310" width="100" height="40" as="geometry" />
