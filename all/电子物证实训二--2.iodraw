@@ -674,6 +674,9 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-17" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;操作记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zsh184ndh1uh0bin73Fk-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-22" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;物证操作员&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="156" y="930" width="120" height="60" as="geometry" />
         </mxCell>
@@ -683,11 +686,8 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-24" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="276" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-26" target="Zsh184ndh1uh0bin73Fk-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-26" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;注册登录&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="354" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-28" target="Zsh184ndh1uh0bin73Fk-33">
           <mxGeometry relative="1" as="geometry" />
