@@ -772,7 +772,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Eninvpkviod5a0PFwQ5W-5" value="&lt;font color=&quot;#fafafa&quot; style=&quot;font-size: 20px;&quot;&gt;用户应用程序&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#4D9900;" vertex="1" parent="1">
+        <mxCell id="Eninvpkviod5a0PFwQ5W-5" value="&lt;font color=&quot;#fafafa&quot; style=&quot;font-size: 20px;&quot;&gt;用户应用程序&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="90" y="520" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Eninvpkviod5a0PFwQ5W-1" value="&lt;font color=&quot;#fafafa&quot; style=&quot;font-size: 20px;&quot;&gt;用户应用程序&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=20;fillColor=#4D9900;" vertex="1" parent="1">
