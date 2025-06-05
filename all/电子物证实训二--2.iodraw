@@ -619,7 +619,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MrRZjJjUMCXU9ARjp9Li" name="第 3 页">
-    <mxGraphModel dx="389" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="556" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -641,25 +641,25 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-7" target="Zsh184ndh1uh0bin73Fk-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-7" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-7" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="267" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-9" target="Zsh184ndh1uh0bin73Fk-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-9" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;增加&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-9" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;增加&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-11" target="Zsh184ndh1uh0bin73Fk-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-11" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;修改&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-11" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;修改&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="423" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-13" target="Zsh184ndh1uh0bin73Fk-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-13" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-13" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-14" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;实训人员信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
