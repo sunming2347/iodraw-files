@@ -662,16 +662,16 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-13" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-14" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;实训人员信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-14" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;实训人员信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="100" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-15" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;相关数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-15" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;相关数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="257" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-16" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;基本数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-16" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;基本数据&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="413" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-17" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;操作记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-17" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;操作记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-24">
