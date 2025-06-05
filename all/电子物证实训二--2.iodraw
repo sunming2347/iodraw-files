@@ -702,7 +702,10 @@
           <mxGeometry x="680" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-42" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;多人实训&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="870" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zsh184ndh1uh0bin73Fk-43" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;教学资源学习&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="870" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
