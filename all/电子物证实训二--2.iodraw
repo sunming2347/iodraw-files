@@ -674,16 +674,7 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-17" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;实训人员&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;操作记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="570" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-22" target="Zsh184ndh1uh0bin73Fk-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-22" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
