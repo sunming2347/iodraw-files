@@ -19,6 +19,9 @@
         <mxCell id="xRlyYVpImYgUtyZ9cPwK-1" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="345" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J8U5cIMlEqZwCwMFvtTX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J8U5cIMlEqZwCwMFvtTX-3" target="J8U5cIMlEqZwCwMFvtTX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J8U5cIMlEqZwCwMFvtTX-3" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="267" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="J8U5cIMlEqZwCwMFvtTX-4" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;增加&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J8U5cIMlEqZwCwMFvtTX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J8U5cIMlEqZwCwMFvtTX-5" target="J8U5cIMlEqZwCwMFvtTX-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J8U5cIMlEqZwCwMFvtTX-5" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;修改&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="423" y="220" width="120" height="60" as="geometry" />
