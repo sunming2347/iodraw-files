@@ -749,10 +749,13 @@
         <mxCell id="Zsh184ndh1uh0bin73Fk-53" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;教师指导&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;评价&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="1260" y="810" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zsh184ndh1uh0bin73Fk-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zsh184ndh1uh0bin73Fk-56" target="Zsh184ndh1uh0bin73Fk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zsh184ndh1uh0bin73Fk-56" value="数据存储" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="755" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zsh184ndh1uh0bin73Fk-59" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;学员物证&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;考训操作&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="Zsh184ndh1uh0bin73Fk-59" value="&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;考训数据&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f7f7f7&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;分析整理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="1520" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
