@@ -19,7 +19,7 @@
         <mxCell id="xRlyYVpImYgUtyZ9cPwK-1" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="345" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J8U5cIMlEqZwCwMFvtTX-3" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
+        <mxCell id="J8U5cIMlEqZwCwMFvtTX-3" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="267" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J8U5cIMlEqZwCwMFvtTX-4" value="&lt;font color=&quot;#f7f7f7&quot; style=&quot;font-size: 20px;&quot;&gt;增加&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0066CC;" vertex="1" parent="1">
